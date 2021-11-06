@@ -1,0 +1,99 @@
+[
+    {
+      "_id": "5d713995b721c3bb38c1f5d0",
+      "name": "Toyota 1000",
+      "price": 10000,
+      "references": ["https://cdn.motor1.com/images/mgl/6LWeG/s1/eksterer-toyota-land-cruiser-300.jpg", 
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfHJZd7w4Ab-rsVTI6pRmK1PorzuI5Au9VHw&usqp=CAU"],
+      "description": "Cool Toyota"
+    },
+    {
+      "_id": "5d713a66ec8f2b88b8f830b8",
+      "name": "Hyundai 1000",
+      "price": 9500,
+      "references": ["https://imgd.aeplcdn.com/1200x900/n/cw/ec/39082/tucson-exterior-right-front-three-quarter.jpeg?q=85",
+        "https://i.ytimg.com/vi/8-CjlBTbt1s/maxresdefault.jpg"],
+      "description": "Awesome Hyndai"
+    },
+    {
+      "_id": "5d725a4a7b292f5f8ceff789",
+      "name": "Toyota 2000",
+      "price": 10000,
+      "references": ["https://cdn.motor1.com/images/mgl/6LWeG/s1/eksterer-toyota-land-cruiser-300.jpg", 
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfHJZd7w4Ab-rsVTI6pRmK1PorzuI5Au9VHw&usqp=CAU"],
+      "description": "Cool Toyota"
+    },
+    {
+      "_id": "5d725c84c4ded7bcb480eaa0",
+      "name": "Hyundai 2000",
+      "price": 9500,
+      "references": ["https://imgd.aeplcdn.com/1200x900/n/cw/ec/39082/tucson-exterior-right-front-three-quarter.jpeg?q=85",
+        "https://i.ytimg.com/vi/8-CjlBTbt1s/maxresdefault.jpg"],
+      "description": "Awesome Hyndai"
+    },
+    {
+      "_id": "5d725cb9c4ded7bcb480eaa1",
+      "name": "Toyota 3000",
+      "price": 10000,
+      "references": ["https://cdn.motor1.com/images/mgl/6LWeG/s1/eksterer-toyota-land-cruiser-300.jpg", 
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfHJZd7w4Ab-rsVTI6pRmK1PorzuI5Au9VHw&usqp=CAU"],
+      "description": "Cool Toyota"
+    },
+    {
+      "_id": "5d725cd2c4ded7bcb480eaa2",
+      "name": "Hyundai 3000",
+      "price": 9500,
+      "references": ["https://imgd.aeplcdn.com/1200x900/n/cw/ec/39082/tucson-exterior-right-front-three-quarter.jpeg?q=85",
+        "https://i.ytimg.com/vi/8-CjlBTbt1s/maxresdefault.jpg"],
+      "description": "Awesome Hyndai"
+    },
+    {
+      "_id": "5d725ce8c4ded7bcb480eaa3",
+      "name": "Toyota 4000",
+      "price": 10000,
+      "references": ["https://cdn.motor1.com/images/mgl/6LWeG/s1/eksterer-toyota-land-cruiser-300.jpg", 
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfHJZd7w4Ab-rsVTI6pRmK1PorzuI5Au9VHw&usqp=CAU"],
+      "description": "Cool Toyota"
+    },
+    {
+      "_id": "5d725cfec4ded7bcb480eaa4",
+      "name": "Hyundai 4000",
+      "price": 9500,
+      "references": ["https://imgd.aeplcdn.com/1200x900/n/cw/ec/39082/tucson-exterior-right-front-three-quarter.jpeg?q=85",
+        "https://i.ytimg.com/vi/8-CjlBTbt1s/maxresdefault.jpg"],
+      "description": "Awesome Hyndai"
+    },
+    {
+      "_id": "5d725ce8c4ded7bcb480eaa5",
+      "name": "Toyota 5000",
+      "price": 10000,
+      "references": ["https://cdn.motor1.com/images/mgl/6LWeG/s1/eksterer-toyota-land-cruiser-300.jpg", 
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfHJZd7w4Ab-rsVTI6pRmK1PorzuI5Au9VHw&usqp=CAU"],
+      "description": "Cool Toyota"
+    },
+    {
+      "_id": "5d725cfec4ded7bcb480eaa6",
+      "name": "Hyundai 5000",
+      "price": 9500,
+      "references": ["https://imgd.aeplcdn.com/1200x900/n/cw/ec/39082/tucson-exterior-right-front-three-quarter.jpeg?q=85",
+        "https://i.ytimg.com/vi/8-CjlBTbt1s/maxresdefault.jpg"],
+      "description": "Awesome Hyndai"
+    },
+    {
+      "_id": "5d725ce8c4ded7bcb480eaa7",
+      "name": "Toyota 6000",
+      "price": 10000,
+      "references": ["https://cdn.motor1.com/images/mgl/6LWeG/s1/eksterer-toyota-land-cruiser-300.jpg", 
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfHJZd7w4Ab-rsVTI6pRmK1PorzuI5Au9VHw&usqp=CAU"],
+      "description": "Cool Toyota"
+    },
+    {
+      "_id": "5d725cfec4ded7bcb480eaa8",
+      "name": "Hyundai 6000",
+      "price": 9500,
+      "references": ["https://imgd.aeplcdn.com/1200x900/n/cw/ec/39082/tucson-exterior-right-front-three-quarter.jpeg?q=85",
+        "https://i.ytimg.com/vi/8-CjlBTbt1s/maxresdefault.jpg"],
+      "description": "Awesome Hyndai"
+    }
+  ]
+  
