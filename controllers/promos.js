@@ -20,8 +20,10 @@ exports.getPromo = asyncHandler(async (req, res, next) => {
     let promos;
 
     if (!req.params.fields) {
+        // only one main reference
         promos = await Promos.findById(req.params.id, {references: { $slice: 1 }});
     } else if (req.params.fields.trim() === 'fields'){
+        //all references
         promos = await Promos.findById(req.params.id).select('name price references description createAt'); 
     } else {
         return next(new ErrorResponse(`Wrong parameter: ${req.params.fields}`, 404));
